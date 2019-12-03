@@ -1,0 +1,17 @@
+src 
+----app
++------Payment-details
+        Payment-details.componenet.ts|.html|.css 
+         Payment-detail
+          Payment-detail.componenet.ts|.html|.css 
+         payment-detail-list
+          Payment-detail-list.componenet.ts|.html|.css 
+
+         shared
+          payment-detail.service.ts 
+          payment-detail.model.ts
+
+
+         app-module.ts
+
+index.html(cdn path for bootstrap & font aesome icons)          
